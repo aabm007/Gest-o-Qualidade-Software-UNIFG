@@ -1,1 +1,1 @@
-# Gest-o-Qualidade-Software-UNIFG
+# Gestao-Qualidade-Software-UNIFG
